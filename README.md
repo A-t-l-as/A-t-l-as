@@ -18,6 +18,8 @@ I study computer science and program in C++/Java on a daily basis. <br>
 I really enjoy programming graphical interfaces in Java Swing and Qt in C++. <br>
 I like tinkering with BSD or GNU/Linux operating systems. <br>
 
+---
+
 ### PL:
 
 ### Inżynieria wsteczna
