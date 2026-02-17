@@ -14,9 +14,9 @@ In addition to my interest in reverse engineering, I mod the game KnightShift (P
 [Link to the moddb page](https://www.moddb.com/mods/fanmade-gold-edition) <br>
 
 ### Programming
-I study computer science and program in C++/Java on a daily basis. 
-I really enjoy programming graphical interfaces in Java Swing and Qt in C++. 
-I like tinkering with BSD or GNU/Linux operating systems.
+I study computer science and program in C++/Java on a daily basis. <br>
+I really enjoy programming graphical interfaces in Java Swing and Qt in C++. <br>
+I like tinkering with BSD or GNU/Linux operating systems. <br>
 
 ### PL:
 
@@ -31,6 +31,6 @@ Prócz zainteresowania inżynierią wsteczną - moduję grę KnightShift (Polani
 [Link do strony moddb](https://www.moddb.com/mods/fanmade-gold-edition) <br>
 
 ### Programowanie
-Na codzień studiuję informatykę i programuje w C++/Java. 
-Programowanie interfejsów graficznych w Java Swing oraz w Qt w C++ sprawia mi bardzo dużą przyjemność.
-Lubię majstrować przy systemach operacyjnych BSD lub GNU/Linux.
+Na codzień studiuję informatykę i programuje w C++/Java. <br>
+Programowanie interfejsów graficznych w Java Swing oraz w Qt w C++ sprawia mi bardzo dużą przyjemność. <br>
+Lubię majstrować przy systemach operacyjnych BSD lub GNU/Linux. <br>
