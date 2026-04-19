@@ -6,18 +6,18 @@
 I am interested in reverse engineering - I analyze old game modding programs from Reality Pump 
 and try to write my own, which will support the KnightShift game in a more flexible and convenient way.<br>
 
+### Programming
+I am a Computer Science Engineering student. <br>
+I program in C++ and Java. <br>
+I really enjoy programming graphical interfaces in Java Swing and Qt in C++. <br>
+I like tinkering with BSD or GNU/Linux operating systems. <br>
+
 ### Modding
 In addition to my interest in reverse engineering, I mod the game KnightShift (Polanie II) – I am one of the creators of Fanmade Gold Edition. <br>
 
 [Link to the Steam pl page](https://steamcommunity.com/sharedfiles/filedetails/?id=2130076386)<br>
 [Link to the Steam en page](https://steamcommunity.com/sharedfiles/filedetails/?id=2813957545) <br>
 [Link to the moddb page](https://www.moddb.com/mods/fanmade-gold-edition) <br>
-
-### Programming
-I am a Computer Science Engineering student. <br>
-I program in C++ and Java. <br>
-I really enjoy programming graphical interfaces in Java Swing and Qt in C++. <br>
-I like tinkering with BSD or GNU/Linux operating systems. <br>
 
 ---
 
@@ -27,14 +27,14 @@ I like tinkering with BSD or GNU/Linux operating systems. <br>
 Interesuję się inżynierią wsteczną - analizuję stare programy do moddingu gier od Reality Pump 
 i próbuję napisać własne, które będą obsługiwać wyjątkowo grę KnightShift w elastyczniejszy i wygodniejszy sposób. <br>
 
-### Modding
-Prócz zainteresowania inżynierią wsteczną - moduję grę KnightShift (Polanie II) - Jestem jednym z twórców Fanmade Gold Edition. <br>
-[Link do strony steam pl](https://steamcommunity.com/sharedfiles/filedetails/?id=2130076386) <br>
-[Link do strony steam en](https://steamcommunity.com/sharedfiles/filedetails/?id=2813957545) <br>
-[Link do strony moddb](https://www.moddb.com/mods/fanmade-gold-edition) <br>
-
 ### Programowanie
 Jestem studentem informatyki. <br>
 Programuję w językach C++ i Java. <br>
 Programowanie interfejsów graficznych w Java Swing oraz w Qt w C++ sprawia mi bardzo dużą przyjemność. <br>
 Lubię majstrować przy systemach operacyjnych BSD lub GNU/Linux. <br>
+
+### Modding
+Prócz zainteresowania inżynierią wsteczną - moduję grę KnightShift (Polanie II) - Jestem jednym z twórców Fanmade Gold Edition. <br>
+[Link do strony steam pl](https://steamcommunity.com/sharedfiles/filedetails/?id=2130076386) <br>
+[Link do strony steam en](https://steamcommunity.com/sharedfiles/filedetails/?id=2813957545) <br>
+[Link do strony moddb](https://www.moddb.com/mods/fanmade-gold-edition) <br>
